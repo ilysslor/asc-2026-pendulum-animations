@@ -1,7 +1,7 @@
 
 # Double pendulum GIFs
 
-All GIFs will load in this file. To see each individual family one at a time, navigate to families/
+All GIFs will load in this file. To see each individual family one at a time, navigate to `families/`
 
 
 
