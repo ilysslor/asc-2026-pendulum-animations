@@ -1,9 +1,7 @@
 
 # Double pendulum GIFs
 
-All GIFs will load in this file. To see each individual family one at a time, navigate to `families/`
-
-
+**May be slow, especially on poor internet**: this file shows all GIFs. To see GIFs for any one family only, navigate to `families/`
 
 
 
